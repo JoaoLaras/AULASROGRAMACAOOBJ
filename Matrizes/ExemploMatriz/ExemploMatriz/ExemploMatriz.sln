@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploMatriz", "ExemploMatriz\ExemploMatriz.csproj", "{D98D5B2A-2C2E-431E-87C2-1187F47B0B47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D98D5B2A-2C2E-431E-87C2-1187F47B0B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98D5B2A-2C2E-431E-87C2-1187F47B0B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98D5B2A-2C2E-431E-87C2-1187F47B0B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98D5B2A-2C2E-431E-87C2-1187F47B0B47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AAD2511-87C3-4EE6-8119-B65B1A9A4A86}
+	EndGlobalSection
+EndGlobal

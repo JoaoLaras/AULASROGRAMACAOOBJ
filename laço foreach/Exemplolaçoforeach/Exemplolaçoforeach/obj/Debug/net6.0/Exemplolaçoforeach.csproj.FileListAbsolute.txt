@@ -1,0 +1,15 @@
+E:\PROGRAMACAO ORIENTADA E OBJETOS\laço foreach\Exemplolaçoforeach\Exemplolaçoforeach\bin\Debug\net6.0\Exemplolaçoforeach.exe
+E:\PROGRAMACAO ORIENTADA E OBJETOS\laço foreach\Exemplolaçoforeach\Exemplolaçoforeach\bin\Debug\net6.0\Exemplolaçoforeach.deps.json
+E:\PROGRAMACAO ORIENTADA E OBJETOS\laço foreach\Exemplolaçoforeach\Exemplolaçoforeach\bin\Debug\net6.0\Exemplolaçoforeach.runtimeconfig.json
+E:\PROGRAMACAO ORIENTADA E OBJETOS\laço foreach\Exemplolaçoforeach\Exemplolaçoforeach\bin\Debug\net6.0\Exemplolaçoforeach.dll
+E:\PROGRAMACAO ORIENTADA E OBJETOS\laço foreach\Exemplolaçoforeach\Exemplolaçoforeach\bin\Debug\net6.0\Exemplolaçoforeach.pdb
+E:\PROGRAMACAO ORIENTADA E OBJETOS\laço foreach\Exemplolaçoforeach\Exemplolaçoforeach\obj\Debug\net6.0\Exemplolaçoforeach.csproj.AssemblyReference.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\laço foreach\Exemplolaçoforeach\Exemplolaçoforeach\obj\Debug\net6.0\Exemplolaçoforeach.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMACAO ORIENTADA E OBJETOS\laço foreach\Exemplolaçoforeach\Exemplolaçoforeach\obj\Debug\net6.0\Exemplolaçoforeach.AssemblyInfoInputs.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\laço foreach\Exemplolaçoforeach\Exemplolaçoforeach\obj\Debug\net6.0\Exemplolaçoforeach.AssemblyInfo.cs
+E:\PROGRAMACAO ORIENTADA E OBJETOS\laço foreach\Exemplolaçoforeach\Exemplolaçoforeach\obj\Debug\net6.0\Exemplolaçoforeach.csproj.CoreCompileInputs.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\laço foreach\Exemplolaçoforeach\Exemplolaçoforeach\obj\Debug\net6.0\Exemplolaçoforeach.dll
+E:\PROGRAMACAO ORIENTADA E OBJETOS\laço foreach\Exemplolaçoforeach\Exemplolaçoforeach\obj\Debug\net6.0\refint\Exemplolaçoforeach.dll
+E:\PROGRAMACAO ORIENTADA E OBJETOS\laço foreach\Exemplolaçoforeach\Exemplolaçoforeach\obj\Debug\net6.0\Exemplolaçoforeach.pdb
+E:\PROGRAMACAO ORIENTADA E OBJETOS\laço foreach\Exemplolaçoforeach\Exemplolaçoforeach\obj\Debug\net6.0\Exemplolaçoforeach.genruntimeconfig.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\laço foreach\Exemplolaçoforeach\Exemplolaçoforeach\obj\Debug\net6.0\ref\Exemplolaçoforeach.dll

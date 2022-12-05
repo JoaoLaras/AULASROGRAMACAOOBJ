@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropriedadeseoperaçõescomTimeSpan", "PropriedadeseoperaçõescomTimeSpan\PropriedadeseoperaçõescomTimeSpan.csproj", "{5572A4D9-D361-4784-9F6D-595AA9305E8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5572A4D9-D361-4784-9F6D-595AA9305E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5572A4D9-D361-4784-9F6D-595AA9305E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5572A4D9-D361-4784-9F6D-595AA9305E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5572A4D9-D361-4784-9F6D-595AA9305E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA82BA7C-4303-473C-98C4-390E5FCD5FAB}
+	EndGlobalSection
+EndGlobal

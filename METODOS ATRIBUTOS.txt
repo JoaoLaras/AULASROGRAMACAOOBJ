@@ -1,0 +1,2 @@
+Atributo = Como o objeto é;
+Método = O que o objeto faz;
