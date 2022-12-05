@@ -16,7 +16,9 @@ ESCOLHER / SSH
 
 git remote add origin git@github.com:JoaoLaras/AULASROGRAMACAOOBJ.git
 
-git push -u origin main
+git push -u origin main - SOMENTE PRIMEIRA VEZ
+
+git push
 
 PARA CLONAR
 
