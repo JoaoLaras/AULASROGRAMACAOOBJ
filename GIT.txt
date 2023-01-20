@@ -23,3 +23,42 @@ git push
 PARA CLONAR
 
 git clone LINK DO GIT = git@github.com:JoaoLaras/AULASROGRAMACAOOBJ.git
+
+
+git log
+
+git log --oneline 'ATE QUE VERSAO ESTA NO MEU REPOSITORIO
+
+git diff - nome do arquivo index.html
+
+
+git checkout e numero da versao - volta versao q que eu desejo
+
+git reset - tirar os arquivos do stage
+
+git clean -df
+
+git checkout -- .
+
+git checkout main
+
+COMO DESFAZER O ULTIMO COMMIT
+
+git status
+
+git reset --soft HEAD~1 / COMMIT ANTERIOR
+
+COMO DELETAR COMMITS E TMB MODIFICACOES NOS ARQUIVOS - ACAO DESTRUTIVA / SEM RECUPERACAO 
+git status 
+git reset --hard <codigo do commit> deletar commits e alterecoes posteriores a esse commit
+
+git status
+git reset -- hard HEAD~1 Volta o projeto ao estado do ultimo commit
+
+git pull origin main - traz o projeto de volta do git; atualiza o repositorio local em relacao ao remoto "GIT";
+
+
+ATUALIZAR O REPOSITORIO LOCAL
+ 
+git pull origin main 
+

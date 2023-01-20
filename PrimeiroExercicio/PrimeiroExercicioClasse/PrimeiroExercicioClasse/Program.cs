@@ -1,5 +1,6 @@
 ﻿using PrimeiroExercicioClasse;
 using System;
+using System.Globalization;
 
 namespace MyApp // Note: actual namespace depends on the project name.
 {
@@ -7,29 +8,25 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            Pessoa p1 = new Pessoa();
-            Pessoa p2 = new Pessoa();
-                   
-            Console.WriteLine("Dados da primeira pessoa");
+            Funcionario f1 = new Funcionario();
+            Funcionario f2= new Funcionario();
+            Console.WriteLine("Dados do primeiro funcionário: ");
             Console.Write("Nome: ");
-            p1.Nome = Console.ReadLine();
-            Console.Write("Idade: ");
-            p1.Idade = int.Parse(Console.ReadLine());
+            f1.Nome = Console.ReadLine();
+            Console.Write("Salário: ");
+            f1.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine("Dados da segunda pessoa");
+            Console.WriteLine("Dados do segundo funcionário: ");
             Console.Write("Nome: ");
-            p2.Nome = Console.ReadLine();
-            Console.Write("Idade: ");
-            p2.Idade = int.Parse(Console.ReadLine());
+            f2.Nome = Console.ReadLine();
+            Console.Write("Salário: ");
+            f2.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            if ( p1.Idade > p2.Idade)
-            {
-                Console.WriteLine("Pessoa mais velha: " + p1.Nome);
-            }
-            else
-            {
-                Console.WriteLine("Pessoa mais velha: " + p2.Nome);
-            }
+            double media = (f1.Salario + f2.Salario) / 2;
+
+            Console.WriteLine("Salário médio = "+ media.ToString("F2", CultureInfo.InvariantCulture));
+
+
 
         }
     }
