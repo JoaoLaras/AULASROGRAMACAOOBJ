@@ -1,0 +1,15 @@
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\Exercicio\CriandoExcecoesParte2RUIM\CriandoExcecoesParte2RUIM\bin\Debug\net6.0\CriandoExcecoesParte2RUIM.exe
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\Exercicio\CriandoExcecoesParte2RUIM\CriandoExcecoesParte2RUIM\bin\Debug\net6.0\CriandoExcecoesParte2RUIM.deps.json
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\Exercicio\CriandoExcecoesParte2RUIM\CriandoExcecoesParte2RUIM\bin\Debug\net6.0\CriandoExcecoesParte2RUIM.runtimeconfig.json
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\Exercicio\CriandoExcecoesParte2RUIM\CriandoExcecoesParte2RUIM\bin\Debug\net6.0\CriandoExcecoesParte2RUIM.dll
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\Exercicio\CriandoExcecoesParte2RUIM\CriandoExcecoesParte2RUIM\bin\Debug\net6.0\CriandoExcecoesParte2RUIM.pdb
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\Exercicio\CriandoExcecoesParte2RUIM\CriandoExcecoesParte2RUIM\obj\Debug\net6.0\CriandoExcecoesParte2RUIM.csproj.AssemblyReference.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\Exercicio\CriandoExcecoesParte2RUIM\CriandoExcecoesParte2RUIM\obj\Debug\net6.0\CriandoExcecoesParte2RUIM.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\Exercicio\CriandoExcecoesParte2RUIM\CriandoExcecoesParte2RUIM\obj\Debug\net6.0\CriandoExcecoesParte2RUIM.AssemblyInfoInputs.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\Exercicio\CriandoExcecoesParte2RUIM\CriandoExcecoesParte2RUIM\obj\Debug\net6.0\CriandoExcecoesParte2RUIM.AssemblyInfo.cs
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\Exercicio\CriandoExcecoesParte2RUIM\CriandoExcecoesParte2RUIM\obj\Debug\net6.0\CriandoExcecoesParte2RUIM.csproj.CoreCompileInputs.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\Exercicio\CriandoExcecoesParte2RUIM\CriandoExcecoesParte2RUIM\obj\Debug\net6.0\CriandoExcecoesParte2RUIM.dll
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\Exercicio\CriandoExcecoesParte2RUIM\CriandoExcecoesParte2RUIM\obj\Debug\net6.0\refint\CriandoExcecoesParte2RUIM.dll
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\Exercicio\CriandoExcecoesParte2RUIM\CriandoExcecoesParte2RUIM\obj\Debug\net6.0\CriandoExcecoesParte2RUIM.pdb
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\Exercicio\CriandoExcecoesParte2RUIM\CriandoExcecoesParte2RUIM\obj\Debug\net6.0\CriandoExcecoesParte2RUIM.genruntimeconfig.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\Exercicio\CriandoExcecoesParte2RUIM\CriandoExcecoesParte2RUIM\obj\Debug\net6.0\ref\CriandoExcecoesParte2RUIM.dll

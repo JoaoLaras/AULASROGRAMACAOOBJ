@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CriandoExcecoesParte2RUIM/1.0.0": {
+        "runtime": {
+          "CriandoExcecoesParte2RUIM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CriandoExcecoesParte2RUIM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

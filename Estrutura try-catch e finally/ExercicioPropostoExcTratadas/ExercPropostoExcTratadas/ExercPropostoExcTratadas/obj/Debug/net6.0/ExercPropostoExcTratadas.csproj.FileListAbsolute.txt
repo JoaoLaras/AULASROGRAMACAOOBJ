@@ -1,0 +1,15 @@
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\ExercicioPropostoExcTratadas\ExercPropostoExcTratadas\ExercPropostoExcTratadas\bin\Debug\net6.0\ExercPropostoExcTratadas.exe
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\ExercicioPropostoExcTratadas\ExercPropostoExcTratadas\ExercPropostoExcTratadas\bin\Debug\net6.0\ExercPropostoExcTratadas.deps.json
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\ExercicioPropostoExcTratadas\ExercPropostoExcTratadas\ExercPropostoExcTratadas\bin\Debug\net6.0\ExercPropostoExcTratadas.runtimeconfig.json
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\ExercicioPropostoExcTratadas\ExercPropostoExcTratadas\ExercPropostoExcTratadas\bin\Debug\net6.0\ExercPropostoExcTratadas.dll
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\ExercicioPropostoExcTratadas\ExercPropostoExcTratadas\ExercPropostoExcTratadas\bin\Debug\net6.0\ExercPropostoExcTratadas.pdb
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\ExercicioPropostoExcTratadas\ExercPropostoExcTratadas\ExercPropostoExcTratadas\obj\Debug\net6.0\ExercPropostoExcTratadas.csproj.AssemblyReference.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\ExercicioPropostoExcTratadas\ExercPropostoExcTratadas\ExercPropostoExcTratadas\obj\Debug\net6.0\ExercPropostoExcTratadas.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\ExercicioPropostoExcTratadas\ExercPropostoExcTratadas\ExercPropostoExcTratadas\obj\Debug\net6.0\ExercPropostoExcTratadas.AssemblyInfoInputs.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\ExercicioPropostoExcTratadas\ExercPropostoExcTratadas\ExercPropostoExcTratadas\obj\Debug\net6.0\ExercPropostoExcTratadas.AssemblyInfo.cs
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\ExercicioPropostoExcTratadas\ExercPropostoExcTratadas\ExercPropostoExcTratadas\obj\Debug\net6.0\ExercPropostoExcTratadas.csproj.CoreCompileInputs.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\ExercicioPropostoExcTratadas\ExercPropostoExcTratadas\ExercPropostoExcTratadas\obj\Debug\net6.0\ExercPropostoExcTratadas.dll
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\ExercicioPropostoExcTratadas\ExercPropostoExcTratadas\ExercPropostoExcTratadas\obj\Debug\net6.0\refint\ExercPropostoExcTratadas.dll
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\ExercicioPropostoExcTratadas\ExercPropostoExcTratadas\ExercPropostoExcTratadas\obj\Debug\net6.0\ExercPropostoExcTratadas.pdb
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\ExercicioPropostoExcTratadas\ExercPropostoExcTratadas\ExercPropostoExcTratadas\obj\Debug\net6.0\ExercPropostoExcTratadas.genruntimeconfig.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Estrutura try-catch e finally\ExercicioPropostoExcTratadas\ExercPropostoExcTratadas\ExercPropostoExcTratadas\obj\Debug\net6.0\ref\ExercPropostoExcTratadas.dll
