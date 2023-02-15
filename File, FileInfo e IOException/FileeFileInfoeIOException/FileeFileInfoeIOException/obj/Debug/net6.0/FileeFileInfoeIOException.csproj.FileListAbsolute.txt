@@ -1,0 +1,15 @@
+E:\PROGRAMACAO ORIENTADA E OBJETOS\File, FileInfo e IOException\FileeFileInfoeIOException\FileeFileInfoeIOException\bin\Debug\net6.0\FileeFileInfoeIOException.exe
+E:\PROGRAMACAO ORIENTADA E OBJETOS\File, FileInfo e IOException\FileeFileInfoeIOException\FileeFileInfoeIOException\bin\Debug\net6.0\FileeFileInfoeIOException.deps.json
+E:\PROGRAMACAO ORIENTADA E OBJETOS\File, FileInfo e IOException\FileeFileInfoeIOException\FileeFileInfoeIOException\bin\Debug\net6.0\FileeFileInfoeIOException.runtimeconfig.json
+E:\PROGRAMACAO ORIENTADA E OBJETOS\File, FileInfo e IOException\FileeFileInfoeIOException\FileeFileInfoeIOException\bin\Debug\net6.0\FileeFileInfoeIOException.dll
+E:\PROGRAMACAO ORIENTADA E OBJETOS\File, FileInfo e IOException\FileeFileInfoeIOException\FileeFileInfoeIOException\bin\Debug\net6.0\FileeFileInfoeIOException.pdb
+E:\PROGRAMACAO ORIENTADA E OBJETOS\File, FileInfo e IOException\FileeFileInfoeIOException\FileeFileInfoeIOException\obj\Debug\net6.0\FileeFileInfoeIOException.csproj.AssemblyReference.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\File, FileInfo e IOException\FileeFileInfoeIOException\FileeFileInfoeIOException\obj\Debug\net6.0\FileeFileInfoeIOException.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMACAO ORIENTADA E OBJETOS\File, FileInfo e IOException\FileeFileInfoeIOException\FileeFileInfoeIOException\obj\Debug\net6.0\FileeFileInfoeIOException.AssemblyInfoInputs.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\File, FileInfo e IOException\FileeFileInfoeIOException\FileeFileInfoeIOException\obj\Debug\net6.0\FileeFileInfoeIOException.AssemblyInfo.cs
+E:\PROGRAMACAO ORIENTADA E OBJETOS\File, FileInfo e IOException\FileeFileInfoeIOException\FileeFileInfoeIOException\obj\Debug\net6.0\FileeFileInfoeIOException.csproj.CoreCompileInputs.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\File, FileInfo e IOException\FileeFileInfoeIOException\FileeFileInfoeIOException\obj\Debug\net6.0\FileeFileInfoeIOException.dll
+E:\PROGRAMACAO ORIENTADA E OBJETOS\File, FileInfo e IOException\FileeFileInfoeIOException\FileeFileInfoeIOException\obj\Debug\net6.0\refint\FileeFileInfoeIOException.dll
+E:\PROGRAMACAO ORIENTADA E OBJETOS\File, FileInfo e IOException\FileeFileInfoeIOException\FileeFileInfoeIOException\obj\Debug\net6.0\FileeFileInfoeIOException.pdb
+E:\PROGRAMACAO ORIENTADA E OBJETOS\File, FileInfo e IOException\FileeFileInfoeIOException\FileeFileInfoeIOException\obj\Debug\net6.0\FileeFileInfoeIOException.genruntimeconfig.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\File, FileInfo e IOException\FileeFileInfoeIOException\FileeFileInfoeIOException\obj\Debug\net6.0\ref\FileeFileInfoeIOException.dll

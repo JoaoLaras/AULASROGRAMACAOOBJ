@@ -1,0 +1,15 @@
+E:\PROGRAMACAO ORIENTADA E OBJETOS\FileStream e StreamReader\FileStreameStreamReader\FileStreameStreamReader\bin\Debug\net6.0\FileStreameStreamReader.exe
+E:\PROGRAMACAO ORIENTADA E OBJETOS\FileStream e StreamReader\FileStreameStreamReader\FileStreameStreamReader\bin\Debug\net6.0\FileStreameStreamReader.deps.json
+E:\PROGRAMACAO ORIENTADA E OBJETOS\FileStream e StreamReader\FileStreameStreamReader\FileStreameStreamReader\bin\Debug\net6.0\FileStreameStreamReader.runtimeconfig.json
+E:\PROGRAMACAO ORIENTADA E OBJETOS\FileStream e StreamReader\FileStreameStreamReader\FileStreameStreamReader\bin\Debug\net6.0\FileStreameStreamReader.dll
+E:\PROGRAMACAO ORIENTADA E OBJETOS\FileStream e StreamReader\FileStreameStreamReader\FileStreameStreamReader\bin\Debug\net6.0\FileStreameStreamReader.pdb
+E:\PROGRAMACAO ORIENTADA E OBJETOS\FileStream e StreamReader\FileStreameStreamReader\FileStreameStreamReader\obj\Debug\net6.0\FileStreameStreamReader.csproj.AssemblyReference.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\FileStream e StreamReader\FileStreameStreamReader\FileStreameStreamReader\obj\Debug\net6.0\FileStreameStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMACAO ORIENTADA E OBJETOS\FileStream e StreamReader\FileStreameStreamReader\FileStreameStreamReader\obj\Debug\net6.0\FileStreameStreamReader.AssemblyInfoInputs.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\FileStream e StreamReader\FileStreameStreamReader\FileStreameStreamReader\obj\Debug\net6.0\FileStreameStreamReader.AssemblyInfo.cs
+E:\PROGRAMACAO ORIENTADA E OBJETOS\FileStream e StreamReader\FileStreameStreamReader\FileStreameStreamReader\obj\Debug\net6.0\FileStreameStreamReader.csproj.CoreCompileInputs.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\FileStream e StreamReader\FileStreameStreamReader\FileStreameStreamReader\obj\Debug\net6.0\FileStreameStreamReader.dll
+E:\PROGRAMACAO ORIENTADA E OBJETOS\FileStream e StreamReader\FileStreameStreamReader\FileStreameStreamReader\obj\Debug\net6.0\refint\FileStreameStreamReader.dll
+E:\PROGRAMACAO ORIENTADA E OBJETOS\FileStream e StreamReader\FileStreameStreamReader\FileStreameStreamReader\obj\Debug\net6.0\FileStreameStreamReader.pdb
+E:\PROGRAMACAO ORIENTADA E OBJETOS\FileStream e StreamReader\FileStreameStreamReader\FileStreameStreamReader\obj\Debug\net6.0\FileStreameStreamReader.genruntimeconfig.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\FileStream e StreamReader\FileStreameStreamReader\FileStreameStreamReader\obj\Debug\net6.0\ref\FileStreameStreamReader.dll

@@ -1,0 +1,15 @@
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Bloco using\Bloco using\Bloco using\bin\Debug\net6.0\Bloco using.exe
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Bloco using\Bloco using\Bloco using\bin\Debug\net6.0\Bloco using.deps.json
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Bloco using\Bloco using\Bloco using\bin\Debug\net6.0\Bloco using.runtimeconfig.json
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Bloco using\Bloco using\Bloco using\bin\Debug\net6.0\Bloco using.dll
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Bloco using\Bloco using\Bloco using\bin\Debug\net6.0\Bloco using.pdb
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Bloco using\Bloco using\Bloco using\obj\Debug\net6.0\Bloco using.csproj.AssemblyReference.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Bloco using\Bloco using\Bloco using\obj\Debug\net6.0\Bloco using.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Bloco using\Bloco using\Bloco using\obj\Debug\net6.0\Bloco using.AssemblyInfoInputs.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Bloco using\Bloco using\Bloco using\obj\Debug\net6.0\Bloco using.AssemblyInfo.cs
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Bloco using\Bloco using\Bloco using\obj\Debug\net6.0\Bloco using.csproj.CoreCompileInputs.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Bloco using\Bloco using\Bloco using\obj\Debug\net6.0\Bloco using.dll
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Bloco using\Bloco using\Bloco using\obj\Debug\net6.0\refint\Bloco using.dll
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Bloco using\Bloco using\Bloco using\obj\Debug\net6.0\Bloco using.pdb
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Bloco using\Bloco using\Bloco using\obj\Debug\net6.0\Bloco using.genruntimeconfig.cache
+E:\PROGRAMACAO ORIENTADA E OBJETOS\Bloco using\Bloco using\Bloco using\obj\Debug\net6.0\ref\Bloco using.dll
